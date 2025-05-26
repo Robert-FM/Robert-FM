@@ -101,6 +101,8 @@ Sou Robert Fernandes de Melo, 30 anos, natural do Piauí. Atualmente, sou doutor
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <div align="center">
