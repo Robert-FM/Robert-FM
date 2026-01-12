@@ -101,26 +101,4 @@ Sou Robert Fernandes de Melo, 30 anos, natural do Piauí. Atualmente, sou doutor
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img 
-          alt="GitHub Stats" 
-          height="200" 
-          src="https://github-readme-stats.vercel.app/api?username=Robert-FM&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-        />
-      </td>
-      <td>
-        <img 
-          alt="Top Langs" 
-          height="200" 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-FM&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
-        />
-      </td>
-    </tr>
-  </table>
-</div>
 
