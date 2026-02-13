@@ -2,7 +2,8 @@
 
 **`Cientista de Dados`**
 
-Sou Robert Fernandes de Melo, 30 anos, natural do Piauí. Atualmente, sou doutorando em Tecnologias Energéticas e Nucleares (DEN/UFPE), desenvolvendo modelos de aprendizagem de máquina para analisar e prever parâmetros radioecológicos da água do Rio Capibaribe/PE. Também atuo em projetos com Python voltados à resolução de problemas reais, em automação, análise e interpretação de dados. Tenho experiência na construção e otimização de modelos de Machine Learning, utilizando Scikit-Learn e técnicas de ajuste de hiperparâmetros (hyperparameter tuning) para maximizar o desempenho. Trabalho com tratamento e exploração de dados por meio das bibliotecas Pandas e NumPy, visualização com Matplotlib e Seaborn, além de manipulação e consulta de dados em bancos MySQL. 
+Cientista de Dados com experiência em Data Analysis, Data Preprocessing, Feature Engineering e desenvolvimento de modelos de Machine Learning para classificação e regressão. Atuação em projetos nas áreas ambiental, educacional e financeira, utilizando Random Forest, XGBoost e técnicas de Hyperparameter Tuning com Cross-validation. Experiência com dados desbalanceados, Model Evaluation (AUC, F1-score, Recall), construção de Data Pipelines reprodutíveis e desenvolvimento de dashboards analíticos em Power BI para suporte à tomada 
+de decisão baseada em dados (Data-driven Decision Making). Forte domínio de Python, SQL, Pandas, NumPy, Scikit-learn e Power BI (modelagem de dados, DAX e Power Query).
 
 <p align="center">
     <a href="https://github.com/Robert-FM?tab=repositories&sort=stargazers">
