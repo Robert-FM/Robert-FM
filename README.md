@@ -1,9 +1,8 @@
 # 🧑🏻‍💻 Robert Fernandes
 
-**`Cientista de Dados`**
+**`AI & Machine Learning Engineer | Data Scientist | GenAI Developer`**
 
-Cientista de Dados com experiência em Data Analysis, Data Preprocessing, Feature Engineering e desenvolvimento de modelos de Machine Learning para classificação e regressão. Atuação em projetos nas áreas ambiental, educacional e financeira, utilizando Random Forest, XGBoost e técnicas de Hyperparameter Tuning com Cross-validation. Experiência com dados desbalanceados, Model Evaluation (AUC, F1-score, Recall), construção de Data Pipelines reprodutíveis e desenvolvimento de dashboards analíticos em Power BI para suporte à tomada 
-de decisão baseada em dados (Data-driven Decision Making). Forte domínio de Python, SQL, Pandas, NumPy, Scikit-learn e Power BI (modelagem de dados, DAX e Power Query).
+Construo soluções inteligentes utilizando Machine Learning, IA Generativa e Engenharia de Dados. Experiência no desenvolvimento de modelos preditivos, sistemas RAG, aplicações com LLMs, APIs REST e pipelines de MLOps. Atuo com Python, SQL, FastAPI, Scikit-learn, XGBoost, TensorFlow, Docker, MLflow e AWS, transformando dados em produtos escaláveis e orientados à tomada de decisão. Possuo experiência em pesquisa aplicada, análise de dados ambientais e desenvolvimento de soluções de IA para problemas reais.
 
 <p align="center">
     <a href="https://github.com/Robert-FM?tab=repositories&sort=stargazers">
