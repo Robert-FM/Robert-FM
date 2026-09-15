@@ -49,7 +49,9 @@ Minha atuação combina **pesquisa científica, Data Science e Engenharia de IA*
 
 ---
 
-# 🧠 Inteligência Artificial & Machine Learning
+# 🛠️ Tecnologias & Ferramentas
+
+## 🧠 Inteligência Artificial & Machine Learning
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" title="Python"/>
@@ -65,13 +67,13 @@ Minha atuação combina **pesquisa científica, Data Science e Engenharia de IA*
 
 **Machine Learning • Deep Learning • NLP • Computer Vision • LLMs**
 
-**RAG • AI Agents • LangChain • LangGraph • Hugging Face • Transformers**
+**Scikit-learn • XGBoost • LightGBM • TensorFlow • Keras • PyTorch • OpenCV**
+
+**LangChain • LangGraph • OpenAI API • Gemini • Hugging Face • Transformers • RAG • Embeddings**
 
 <br>
 
----
-
-# 📊 Data Science & Data Engineering
+## 📊 Data Science & Data Engineering
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" title="Pandas"/>
@@ -85,13 +87,13 @@ Minha atuação combina **pesquisa científica, Data Science e Engenharia de IA*
 
 **EDA • Feature Engineering • Statistical Analysis • Data Pipelines**
 
-**Spark • DuckDB • Databricks • Power BI • Streamlit**
+**Pandas • NumPy • Matplotlib • Spark • DuckDB • Databricks**
+
+**Power BI • DAX • Power Query • Streamlit**
 
 <br>
 
----
-
-# ⚙️ Backend & MLOps
+## ⚙️ Backend & MLOps
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI"/>
@@ -105,35 +107,9 @@ Minha atuação combina **pesquisa científica, Data Science e Engenharia de IA*
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="50" title="SQLAlchemy"/>
 </p>
 
-**FastAPI • REST APIs • MLflow • Docker • CI/CD**
+**FastAPI • REST APIs • SQLAlchemy • PostgreSQL • JWT • Alembic**
 
-**Alembic • JWT • SQLAlchemy • PostgreSQL • N8N**
-
-<br>
-
----
-
-# 🛠️ Tecnologias & Ferramentas
-
-### 🤖 AI & GenAI
-
-**LangChain • LangGraph • OpenAI API • Gemini • Hugging Face • Transformers • RAG • Embeddings**
-
-### 🧠 Machine Learning & Deep Learning
-
-**Scikit-learn • XGBoost • LightGBM • TensorFlow • Keras • PyTorch • CNNs**
-
-### 📊 Data & Analytics
-
-**Pandas • NumPy • Matplotlib • Power BI • DAX • Power Query • Streamlit**
-
-### 🗃️ Data Engineering
-
-**SQL • PostgreSQL • Spark • DuckDB • Databricks • SQLAlchemy**
-
-### ⚙️ Engineering & MLOps
-
-**FastAPI • Docker • MLflow • Git • CI/CD • Alembic • JWT • N8N**
+**Docker • MLflow • Git • CI/CD • N8N**
 
 <br>
 
