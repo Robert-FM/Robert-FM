@@ -1,120 +1,105 @@
-# 👨🏻‍💻 Robert Fernandes
+# 👋 Olá, eu sou Robert Fernandes de Melo
 
-## AI & Machine Learning Engineer | Data Scientist | GenAI Developer
+### Cientista de Dados | Machine Learning | Inteligência Artificial | Python
 
-### 🤖 Machine Learning • Generative AI • LLMs • RAG • AI Agents
+Sou profissional e pesquisador com foco em **Ciência de Dados, Machine Learning e Inteligência Artificial**, desenvolvendo soluções que transformam dados em modelos, análises e aplicações inteligentes.
 
-### 📊 Data Science • MLOps • Computer Vision • Data Engineering
+Atualmente, sou **doutorando em Tecnologias Energéticas e Nucleares pela Universidade Federal de Pernambuco (UFPE)** e estudante de **Ciência de Dados**, com formação em Física e mestrado em Tecnologias Energéticas e Nucleares.
 
-**Transformando dados, modelos e Inteligência Artificial em soluções para problemas reais.**
+Minha atuação combina **pesquisa científica, análise de dados e desenvolvimento de software**, com experiência na construção de pipelines de Data Science, modelos de Machine Learning, sistemas baseados em LLMs, RAG, agentes de IA, APIs REST e aplicações orientadas a dados.
 
-<br>
-
-<div align="center">
-
-## 🤝 Vamos conectar?
-
-<a href="https://www.linkedin.com/in/robertdemelo/">
-  <img src="https://img.shields.io/badge/LinkedIn-Robert%20Fernandes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Robert-FM">
-  <img src="https://img.shields.io/badge/GitHub-Robert--FM-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
+Tenho especial interesse em desenvolver soluções de IA que sejam **reprodutíveis, escaláveis e aplicáveis a problemas reais**.
 
 ---
 
-# 🚀 Sobre mim
+## 🛠️ Tecnologias e Ferramentas
 
-Sou profissional e pesquisador na área de **Inteligência Artificial e Ciência de Dados**, com experiência no desenvolvimento de soluções envolvendo **Machine Learning, IA Generativa, LLMs, RAG, sistemas multiagentes, APIs e pipelines de dados**.
+### 🐍 Linguagens & Banco de Dados
 
-Minha atuação combina **pesquisa científica, Data Science e Engenharia de IA**, abrangendo desde análise e modelagem de dados até o desenvolvimento de modelos preditivos e aplicações inteligentes.
-
-### 💡 Principais áreas de atuação
-
-- 🤖 **Generative AI:** LLMs, RAG, LangChain, LangGraph e sistemas multiagentes
-- 🧠 **Machine Learning:** classificação, regressão, feature engineering e otimização de modelos
-- 👁️ **Computer Vision:** OpenCV, segmentação de imagens e Deep Learning
-- ⚙️ **Backend:** APIs REST com Python, FastAPI, SQLAlchemy e JWT
-- 🐳 **MLOps:** Docker, MLflow, Git e CI/CD
-- 📊 **Data Science:** EDA, estatística, visualização e modelagem preditiva
-- 🗃️ **Data Engineering:** pipelines de dados, Spark, DuckDB e Databricks
-- 🔬 **Pesquisa Aplicada:** análise de dados ambientais, físico-químicos e radiológicos
-
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=database\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge\&logo=sqlalchemy\&logoColor=white)
 
 ---
 
-# 🛠️ Tecnologias & Ferramentas
+### 🤖 Machine Learning & Data Science
 
-## 🧠 Inteligência Artificial & Machine Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge\&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge\&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" title="Python"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" title="Scikit-learn"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="50" title="OpenCV"/>
-</p>
-
-**Machine Learning • Deep Learning • NLP • Computer Vision • LLMs**
-
-**Scikit-learn • XGBoost • LightGBM • TensorFlow • Keras • PyTorch • OpenCV**
-
-**LangChain • LangGraph • OpenAI API • Gemini • Hugging Face • Transformers • RAG • Embeddings**
-
-<br>
-
-## 📊 Data Science & Data Engineering
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50" title="Pandas"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" title="NumPy"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50" title="Matplotlib"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="50" title="Apache Spark"/>
-</p>
-
-**EDA • Feature Engineering • Statistical Analysis • Data Pipelines**
-
-**Pandas • NumPy • Matplotlib • Spark • DuckDB • Databricks**
-
-**Power BI • DAX • Power Query • Streamlit**
-
-<br>
-
-## ⚙️ Backend & MLOps
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" title="Docker"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" title="Git"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="50" title="SQLAlchemy"/>
-</p>
-
-**FastAPI • REST APIs • SQLAlchemy • PostgreSQL • JWT • Alembic**
-
-**Docker • MLflow • Git • CI/CD • N8N**
-
-<br>
+`Feature Engineering` • `Validação Cruzada` • `Classificação` • `Regressão` • `NLP` • `EDA` • `Estatística Aplicada`
 
 ---
 
-### 💡 Transformando dados em modelos e modelos em soluções inteligentes.
+### 🧠 IA Generativa & LLMs
 
-**Python • Machine Learning • Generative AI • Data Science • MLOps**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
+
+`LangGraph` • `RAG` • `Embeddings` • `Transformers` • `Agentes de IA` • `Sistemas Multiagentes` • `Prompt Engineering`
+
+---
+
+### 🧬 Deep Learning & Computer Vision
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+
+`CNNs` • `Segmentação de Imagens` • `Detecção de Bordas` • `Métricas de Segmentação`
+
+---
+
+### ⚙️ Backend, MLOps & Engenharia
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+`APIs REST` • `JWT Authentication` • `Alembic` • `CI/CD` • `uv`
+
+---
+
+### 📊 Data Engineering & Business Intelligence
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge\&logo=duckdb\&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+
+`DAX` • `Power Query` • `KPIs` • `Storytelling com Dados` • `Pipelines de Dados`
+
+---
+
+### 🔄 Automação
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+
+---
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Robert_Fernandes_de_Melo-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/robertdemelo/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Robert--FM-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Robert-FM)
+
+[![Email](https://img.shields.io/badge/Email-robertfmelo29%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:robertfmelo29@gmail.com)
+
+---
+
+## 💡 Áreas de Interesse
+
+`Data Science` • `Machine Learning` • `Generative AI` • `LLMs` • `RAG` • `AI Agents` • `Deep Learning` • `Computer Vision` • `MLOps` • `Data Engineering`
+
+---
+
+> **Transformando dados em conhecimento e inteligência artificial em soluções.**
