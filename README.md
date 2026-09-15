@@ -2,6 +2,10 @@
 
 ### Data Scientist | Machine Learning | Artificial Intelligence | Python
 
+---
+
+## 👨‍💻 Sobre Mim
+
 Sou profissional e pesquisador com foco em **Ciência de Dados, Machine Learning e Inteligência Artificial**, desenvolvendo soluções que transformam dados em modelos, análises e aplicações inteligentes.
 
 Atualmente, sou **doutorando em Tecnologias Energéticas e Nucleares pela Universidade Federal de Pernambuco (UFPE)** e estudante de **Ciência de Dados**, com formação em Física e mestrado em Tecnologias Energéticas e Nucleares.
