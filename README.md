@@ -1,18 +1,26 @@
 # 👋 Olá, eu sou Robert Fernandes de Melo
 
-### Data Scientist | Machine Learning | Artificial Intelligence | Python
+## Data Scientist | Machine Learning | Artificial Intelligence | Python
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Sou profissional e pesquisador com foco em **Ciência de Dados, Machine Learning e Inteligência Artificial**, desenvolvendo soluções que transformam dados em modelos, análises e aplicações inteligentes.
+<h3>
+Sou profissional e pesquisador com foco em <strong>Ciência de Dados, Machine Learning e Inteligência Artificial</strong>, desenvolvendo soluções que transformam dados em modelos, análises e aplicações inteligentes.
+</h3>
 
-Atualmente, sou **doutorando em Tecnologias Energéticas e Nucleares pela Universidade Federal de Pernambuco (UFPE)** e estudante de **Ciência de Dados**, com formação em Física e mestrado em Tecnologias Energéticas e Nucleares.
+<h3>
+Atualmente, sou <strong>doutorando em Tecnologias Energéticas e Nucleares pela Universidade Federal de Pernambuco (UFPE)</strong> e estudante de <strong>Ciência de Dados</strong>, com formação em Física e mestrado em Tecnologias Energéticas e Nucleares.
+</h3>
 
-Minha atuação combina **pesquisa científica, análise de dados e desenvolvimento de software**, com experiência na construção de pipelines de Data Science, modelos de Machine Learning, sistemas baseados em LLMs, RAG, agentes de IA, APIs REST e aplicações orientadas a dados.
+<h3>
+Minha atuação combina <strong>pesquisa científica, análise de dados e desenvolvimento de software</strong>, com experiência na construção de pipelines de Data Science, modelos de Machine Learning, sistemas baseados em LLMs, RAG, agentes de IA, APIs REST e aplicações orientadas a dados.
+</h3>
 
-Tenho especial interesse no desenvolvimento de soluções de IA **reprodutíveis, escaláveis e aplicáveis a problemas reais**.
+<h3>
+Tenho especial interesse no desenvolvimento de soluções de IA <strong>reprodutíveis, escaláveis e aplicáveis a problemas reais</strong>.
+</h3>
 
 ---
 
