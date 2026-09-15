@@ -12,6 +12,8 @@
 
 <div align="center">
 
+## 🤝 Vamos conectar?
+
 <a href="https://www.linkedin.com/in/robertdemelo/">
   <img src="https://img.shields.io/badge/LinkedIn-Robert%20Fernandes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -137,46 +139,6 @@ Minha atuação combina **pesquisa científica, Data Science e Engenharia de IA*
 
 ---
 
-<div align="center">
-
-# 📈 GitHub
-
-<a href="https://github.com/Robert-FM?tab=repositories&sort=stargazers">
-  <img
-    alt="Estrelas"
-    src="https://custom-icon-badges.demolab.com/github/stars/Robert-FM?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-  />
-</a>
-&nbsp;
-<a href="https://github.com/Robert-FM?tab=followers">
-  <img
-    alt="Seguidores"
-    src="https://custom-icon-badges.demolab.com/github/followers/Robert-FM?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-  />
-</a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-# 🤝 Vamos conectar?
-
-<a href="https://www.linkedin.com/in/robertdemelo/">
-  <img src="https://img.shields.io/badge/LinkedIn-Robert%20Fernandes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Robert-FM">
-  <img src="https://img.shields.io/badge/GitHub-Robert--FM-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
 ### 💡 Transformando dados em modelos e modelos em soluções inteligentes.
 
 **Python • Machine Learning • Generative AI • Data Science • MLOps**
-
-</div>
